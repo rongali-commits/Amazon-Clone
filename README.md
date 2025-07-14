@@ -1,7 +1,5 @@
 # Amazon Clone (HTML, CSS & JavaScript)
-
-![Amazon Clone Preview](https://i.imgur.com/J5qORfL.png) *(Replace with your screenshot URL)*  
-
+ 
 A functional front-end clone of Amazon's e-commerce platform with responsive design and interactive elements.
 
 ## 🚀 Features
